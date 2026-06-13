@@ -2,3 +2,4 @@ payload:
   - DOMAIN-KEYWORD,m-team
   - SRC-IP-CIDR,192.168.50.193/32
   - IP-CIDR,46.224.90.174/32,no-resolve
+  - IP-CIDR,192.168.50.0/24,no-resolve
