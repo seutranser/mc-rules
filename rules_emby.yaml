@@ -4,4 +4,4 @@ payload:
   - DOMAIN-SUFFIX,as174.de
   - DOMAIN-SUFFIX,sakata.one
   - DOMAIN-SUFFIX,vincentjia.top
-  - IP-CIDR,46.224.90.174/32,no-resolve
+  - IP-CIDR,192.168.0.200/32,no-resolve
